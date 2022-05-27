@@ -1,0 +1,7 @@
+
+nsites = 14
+betafrom = -1
+betato = 0.8
+dbeta = 0.01 
+svd_beta = '-0.2,-0.1,0,0.1'
+

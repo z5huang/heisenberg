@@ -1,0 +1,4 @@
+nsites = 14
+betafrom = -1
+betato = 0.8
+dbeta = 0.01

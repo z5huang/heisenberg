@@ -1,0 +1,5 @@
+
+nsites = 12
+dfrom = 0
+dto = 10
+dd = 0.01 

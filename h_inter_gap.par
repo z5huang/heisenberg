@@ -1,0 +1,7 @@
+
+nsites = 10
+nk = 50
+beta_from = -1.1
+beta_to = 1.11
+dbeta = 0.05
+

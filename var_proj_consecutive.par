@@ -1,0 +1,6 @@
+
+nsites = 12
+betafrom = -0.99
+betato = 1
+dbeta = 0.01
+nex_max = 6
